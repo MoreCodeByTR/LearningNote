@@ -1,9 +1,9 @@
 # sula
+> [remoteDataSource](https://docs.sula.vercel.app/component/table#remotedatasource) 
 
 *QueryTable* *Table*
 - 属性 props
-> [remoteDataSource](https://docs.sula.vercel.app/component/table#remotedatasource) 
-> 
+
 表格初始化请求，分页按钮点击时从这里发送请求
 ```javascript
 remoteDataSource: {
@@ -27,6 +27,10 @@ convertParams: (ctx) => {
 
   return result
 },
-converter: (ctx)=>formatTableParamsresponseParams(ctx),
+converter: (ctx)=>formatTableParams.responseParams(ctx),
 }
 ```
+
+> table里面的cloumns的action属性的设置同[actionsRender](https://docs.sula.vercel.app/component/form#actionsrender) 
+
+支持string、function、object、array格式行为
