@@ -1,0 +1,48 @@
+{
+  "name": "国风美仑",
+  "areaId": "1386989733094371328",
+  "address": "朝阳区东大桥",
+  "longitude": "116.450265",
+  "latitude": "39.920266",
+  "logo": "https://test-centralized-interest.jd.com/group1/M00/00/2C/Ct5zY2FHNEGABY9KAAARfgQxw7I653.png",
+  "descriptions": "<p>无</p>",
+  "province": "北京市",
+  "city": "市辖区",
+  "district": "东城区",
+  "town": "东华门街道",
+  "provinceCode": "110000000000",
+  "cityCode": "110100000000",
+  "districtCode": "110101000000",
+  "townCode": "110101001000",
+  "openingTime": "周一至周日 06:06-13:07",
+  "communityPicturesUrl": [
+    "https://test-centralized-interest.jd.com/group1/M00/00/1E/Ct5xpWFHNEyAVoaAAAJi_neq7AQ109.png",
+    "https://test-centralized-interest.jd.com/group1/M00/00/2C/Ct5zY2FHNFCAd9LrAAJi_neq7AQ843.png"
+  ],
+  "contacts": ["18671524374", "18671524379"],
+  "weight":"1"
+}
+
+
+{
+  "creator": "手打4",
+  "id": 1,
+  "area":"朝阳商圈",
+  "areaId":"1323424534546",
+  "createTime":"2021-09-18 06:22:10",
+  "status":"1",
+  "name": "测试",
+  "province": "山东",
+  "provinceCode": "123",
+  "city": "大连",
+  "cityCode": "456",
+  "district": "文虎",
+  "districtCode": "678",
+  "town": "大陆",
+  "townCode": "321",
+  "address": "风好大话费赛回复",
+  "openingTime": "",
+  "longitude": "123",
+  "latitude": "170",
+  "contacts": "13123458765"
+}
