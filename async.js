@@ -17,3 +17,8 @@ async function my(){
 my().then((data)=>{
   console.log('data',data)
 })
+
+//promise start
+//123
+//after await
+//data 123

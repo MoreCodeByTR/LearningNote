@@ -8,5 +8,20 @@
 </head>
 <body>
   <script src="./test.js"></script>
+  <button onclick="changeA()">+1</button>
+  <button onclick="showA()">show</button>
+  <embed width="800" height="600" src="./test.pdf"></embed>
 </body>
+<script>
+  let name='tr'
+
+  changeA=()=>{
+    name='a'
+    console.log(name)
+  }
+
+  showA=()=>{
+    console.log(name)
+  }
+</script>
 </html>
